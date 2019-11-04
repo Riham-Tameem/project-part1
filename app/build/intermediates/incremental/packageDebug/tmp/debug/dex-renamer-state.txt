@@ -1,0 +1,4 @@
+#Sat Nov 02 21:57:49 IST 2019
+base.0=C\:\\Users\\Admin1\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
